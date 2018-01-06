@@ -4,7 +4,10 @@ layout: page
 categories: language vietnamese quang-nam
 ---
 
-This page will collect information found about the Vietnamese Quảng Nam accent.
+This page will collect information found about the Vietnamese Quảng Nam accent. Most of the information I have found
+is in Vietnamese. I am not a native speaker of Vietnamese but am attempting to collect/translate this information in English.
+
+Some information I have not found in a specific source, so there is no citation.
 
 ## Tones
 
@@ -45,7 +48,19 @@ Some vowel/final transformations:
 | anh | ênh
 | oanh | oênh 
 | ach | ếch 
+| oai | ua [^2]
+| op | ôp [^2]
+
+## Vocabulary
+
+Some Quảng Nam specific vocabulary.
+
+| Standard | Quảng Nam | Example
+|-------------------------------
+| đâu      | mô        | Em đi đâu? => Em đi mô?
+
 
 ## References
 
 [^1]: [Youtube: Tiếng Quảng Nam Việt Nam](https://www.youtube.com/watch?v=OjZgeDYX_L8])
+[^2]: [Giọng Quảng](https://thanhnien.vn/doi-song/giong-quang-66089.html)
