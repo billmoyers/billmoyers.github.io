@@ -1,14 +1,16 @@
 ---
-title: Quảng Nam Accent
-permalink: quang-nam-accent.html
+title: Vietnamese Quảng Nam Accent
 layout: page 
+categories: language vietnamese quang-nam
 ---
 
 This page will collect information found about the Vietnamese Quảng Nam accent.
 
 ## Tones
 
-| Standard | Quảng Nam [^1]
+Names of the tones:
+
+| Tone | Quảng Nam [^1]
 |-------|-------|
 | Huyền | Quyền |
 | Sắc   | Séc   |
@@ -16,13 +18,11 @@ This page will collect information found about the Vietnamese Quảng Nam accent
 | Ngã   | Ngõa  |
 | Nằng  | Nẹng  |
 
-
-
 ## Vowel changes
 
-Some vowel transformations with finals:
+Some vowel/final transformations:
 
-| Standard | Quảng Nam [^1]
+| Vowel/final | Quảng Nam [^1]
 |---------------------
 | a   | o (ôo)
 | âu  | au 
