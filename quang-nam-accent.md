@@ -25,8 +25,8 @@ Names of the tones:
 
 Some vowel/final transformations:
 
-| Vowel/final | Quảng Nam [^1]
-|---------------------
+| Vowel/final | Quảng Nam[^1]
+|------------------------
 | a   | o (ôo)
 | âu  | au 
 | ay  | a
@@ -51,6 +51,12 @@ Some vowel/final transformations:
 | oai | ua [^2]
 | op | ôp [^2]
 
+Here are some examples following the above sound change rules.
+
+| Standard | Quang Nam | English
+|-------------------------------|
+| lốp xe đạp | láp xe độp | bicycle tire [^3]
+
 ## Vocabulary
 
 Some Quảng Nam specific vocabulary.
@@ -64,3 +70,4 @@ Some Quảng Nam specific vocabulary.
 
 [^1]: [Youtube: Tiếng Quảng Nam Việt Nam](https://www.youtube.com/watch?v=OjZgeDYX_L8])
 [^2]: [Giọng Quảng](https://thanhnien.vn/doi-song/giong-quang-66089.html)
+[^3]: [Giọng Quảng Nam: Về một giọng nói ở nơi không có xe Lam](https://bahaidao.wordpress.com/2013/10/04/giong-quang-nam-ve-mot-giong-noi-o-noi-khong-co-xe-lam/)
